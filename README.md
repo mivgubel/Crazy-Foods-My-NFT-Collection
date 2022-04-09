@@ -1,15 +1,7 @@
-# Basic Sample Hardhat Project
+# BuildSpace Proyect: Mint your own NFT collection and ship a Web3 app to show them off
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Final Smart Contract deployed to Rinkeby to finish the Course of BuildSpace: Mint your own NFT collection and ship a Web3 app to show them off.
 
-Try running some of the following tasks:
+in this proyect I created a Smart Contract that allow me to mint my own NFT collection using solidity, javascript to run and deploy tests for the Smart contract, I also create the info for the NFTs using SVG images
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+
